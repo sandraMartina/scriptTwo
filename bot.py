@@ -1,5 +1,6 @@
 import requests
 
+def run():
 # Set up your personal access token and the base URL for the GitHub API
 personal_access_token = "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"
 api_base_url = "https://api.github.com"
