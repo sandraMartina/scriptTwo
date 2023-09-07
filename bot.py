@@ -2,7 +2,7 @@ import requests
 
 def create_github_repo():
     # Set up your personal access token and the base URL for the GitHub API
-    personal_access_token = "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"
+    personal_access_token = "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"
     api_base_url = "https://api.github.com"
 
     # Create a dictionary to store the data for your new repository
